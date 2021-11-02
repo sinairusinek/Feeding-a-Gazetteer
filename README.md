@@ -5,4 +5,6 @@ This data accompanies the paper "Feeding a Gazetteer: Leveraging word embeddings
 * The notebook "Finding_Locations_in_Historic_Newspapers.ipynb", written by Nitzan Gado, which was used to clean the corpus, train an embedding model, query it for given terms, and then load the seed set and extract the top most similar terms for all seed set terms.  
 * Sets of our results.
 * Set of results of the method gained by extracting the most-similar terms from seed set of non spatial domains.
-* The notebook "Visualisation, Exploration and QA.ipynb" written by Nitzan Gado, that enables exploration of the results, of the corpus and distribution of toponyms in it.
+
+The corpus may be used to train the model using the notebook. Alternatively, the model we trained is available for immediate use in the notebook through [This link](https://drive.google.com/file/d/1-95ZYlfNYyEFHOQoW2I7RuoveL0nBJX1/view?usp=sharing) . Enjoy!
+   
